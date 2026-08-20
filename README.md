@@ -10,6 +10,7 @@
 ```text
 .
 ├── template/
+│   ├── .editorconfig   # EditorConfig
 │   ├── .gitattributes  # Git 属性
 │   └── .gitignore      # Git 忽略
 ├── .gitignore      # Git 忽略
