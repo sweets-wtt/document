@@ -9,6 +9,8 @@
 
 ```text
 .
+├── template/
+│   └── .gitignore      # Git 忽略
 ├── .gitignore      # Git 忽略
 └── README.md       # 项目说明
 ```
